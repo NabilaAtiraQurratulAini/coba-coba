@@ -10,9 +10,6 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.neural_network import MLPClassifier
-import tensorflow as tf
-from tensorflow import keras
-from tensorflow.keras import layers
 from sklearn.decomposition import PCA
 
 
